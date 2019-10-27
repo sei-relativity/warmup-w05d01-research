@@ -7,19 +7,11 @@ Each team is going to talk and explain 1 main topic, you will have 40 minute to 
 
 ## JavaScript Front-End Flavors
 ---
-### Angry Nerds
 - Vue.js
-### The Pikmin
 - Angular.js
-### Devarriors
 - React.js
-### AAA+
 - Ember.js
-### Code Black
 - Polymer
-### The 3 Geeks
 - Backbone.js
-### DCoders
 - aurelia.js
-### NAH
 - Svelte
